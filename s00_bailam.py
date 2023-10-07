@@ -9,5 +9,5 @@ Tra ve cau chao 'Hi'
 --- output 
 Hi!
 """
-def hi()
- return 'hi!'
+def hi():
+ return 'Hi'
